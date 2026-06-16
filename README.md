@@ -41,7 +41,7 @@ Work with image, text, and time-series data
 Apply CNN, RNN, and GAN models
 Use pretrained models for transfer learning
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Nayan Pawar
 
